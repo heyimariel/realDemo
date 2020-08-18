@@ -2,6 +2,6 @@ let ariel
 let kiko
 
 
-let text = '版本回退 developaaa'
+let text = '版本回退 AAA'
 
 
